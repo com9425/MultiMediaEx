@@ -1,0 +1,2 @@
+include ':app', ':simplemp3player', ':thred'
+rootProject.name='MultiMediaEx'
